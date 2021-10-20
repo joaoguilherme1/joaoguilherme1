@@ -5,10 +5,7 @@
 [![Telegran](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/joaoguilhermesouza1)
 
 ![Locação](https://img.shields.io/badge/Resende,%20Rio%20de%20Janeiro,%20Brasil%20🇧🇷-gray?style=for-the-badge&logo&logoColor=white)
-
-- Resende, Rio de Janeiro - Engenharia de Produção
-
-![I am from brazil](https://img.shields.io/badge/I%20am%20from%20🇧🇷-gray.svg?style=for-the-badge&logoColor=white)
+![Curso](https://img.shields.io/badge/Engenharia%20de%20Produção-blue?style=for-the-badge&logo&logoColor=white)
 
 - Ferramentas de uso frequente:
 
