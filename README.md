@@ -29,4 +29,4 @@ Brasil - Resende, Rio de Janeiro - Engenharia de Produção
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={joaoguilherme1}
+https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilherme1
