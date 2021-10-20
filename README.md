@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joaoguilherme1)](LINK_GIT)
+
+https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 <!--
 **joaoguilherme1/joaoguilherme1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
