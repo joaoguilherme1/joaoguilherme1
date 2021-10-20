@@ -1,23 +1,17 @@
 ### Hi there 👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joaoguilherme1)](LINK_GIT)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaoguilherme1)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-guilherme-gon%C3%A7alves-de-souza-2805591a6/)
+[![Telegran](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/joaoguilhermesouza1)
 
-https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+Brasil - Resende, Rio de Janeiro - Engenharia de Produção
 
+- Meu principal uso
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+python - django, django rest framework, aws, html, css, javascript, react, bash, mysql, postgresSQL
 
-<!--
-**joaoguilherme1/joaoguilherme1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Minha caixa de ferramentas
 
-Here are some ideas to get you started:
+manjaro - ubuntu - vscode - github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://github-readme-stats.vercel.app/api/top-langs/?username={username}
