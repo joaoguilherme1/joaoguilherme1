@@ -4,7 +4,11 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-guilherme-gon%C3%A7alves-de-souza-2805591a6/)
 [![Telegran](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/joaoguilhermesouza1)
 
-![I am from brazil](https://img.shields.io/badge/Resende%-%Rio%de%Janeiro%-%Brasil%20🇧🇷-gray.svg?style=for-the-badge&logoColor=white) - Resende, Rio de Janeiro - Engenharia de Produção
+![Cidade](https://img.shields.io/badge/Resende-gray?style=for-the-badge&logo&logoColor=white)
+
+- Resende, Rio de Janeiro - Engenharia de Produção
+
+![I am from brazil](https://img.shields.io/badge/I%20am%20from%20🇧🇷-gray.svg?style=for-the-badge&logoColor=white)
 
 - Ferramentas de uso frequente:
 
