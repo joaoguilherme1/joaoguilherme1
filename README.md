@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-guilherme-gon%C3%A7alves-de-souza-2805591a6/)
 [![Telegran](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/joaoguilhermesouza1)
 
-![Cidade](https://img.shields.io/badge/Resende-gray?style=for-the-badge&logo&logoColor=white)
+![Locação](https://img.shields.io/badge/Resende,%20Rio%20de%20Janeiro,%20Brasil%20🇧🇷-gray?style=for-the-badge&logo&logoColor=white)
 
 - Resende, Rio de Janeiro - Engenharia de Produção
 
