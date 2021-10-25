@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-<div align="center">
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaoguilherme1)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-guilherme-gon%C3%A7alves-de-souza-2805591a6/)
 [![Telegran](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/joaoguilhermesouza1)
-</div>
+
 ![Locação](https://img.shields.io/badge/Resende%20|%20Rio%20de%20Janeiro%20|%20Brasil%20🇧🇷-gray?style=for-the-badge&logo&logoColor=white)
 ![Curso](https://img.shields.io/badge/Engenharia%20de%20Produção%20|%20UFF-blue?style=for-the-badge&logo&logoColor=white)
 
