@@ -1,6 +1,6 @@
 - Hi there 👋
 - 👀 I'm currently focused on web programming
-- 🌱 Manufacturing Engineering, Universidade Federal Fluminense
+- 🌱 Production Engineering, Universidade Federal Fluminense
 
 <div align="center">
 
